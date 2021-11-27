@@ -5,4 +5,4 @@
 #### On this site are two plans: monthly and yearly
 
 #### In both plans will be different amounts, depending on how you determine the form of payment.
-!https://i.ibb.co/bQFtmby/chsplan.png
+!(https://i.ibb.co/bQFtmby/chsplan.png)
